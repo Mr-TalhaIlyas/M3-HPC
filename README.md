@@ -1,6 +1,8 @@
 # M3-HPC
 ### STRUDLE
 [S T R U D L E](https://beta.desktop.cvl.org.au/login)
+[VS Code](https://docs.massive.org.au/M3/connecting/strudel2/connecting-to-vscode.html)
+
 ### Activate your Conda Env
 [Link](https://docs.massive.org.au/M3/software/pythonandconda/python-anaconda.html)
 ```
