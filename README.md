@@ -6,6 +6,7 @@
 ### Activate your Conda Env
 [Link](https://docs.massive.org.au/M3/software/pythonandconda/python-anaconda.html)
 ```
+module load git/2.25.2 # if you get git version warning
 module load anaconda/2020.07-Python3.8-gcc8 
 export PROJECT=hl62
 export CONDA_ENVS=/scratch/$PROJECT/$USER/conda_envs
