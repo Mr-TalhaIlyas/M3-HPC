@@ -10,6 +10,11 @@ module load anaconda/2020.07-Python3.8-gcc8
 export PROJECT=hl62
 export CONDA_ENVS=/scratch/$PROJECT/$USER/conda_envs
 source activate $CONDA_ENVS/<your env name you created>
+
+
+### MiniConda
+source /scratch/hl62/tilyas/miniconda/bin/activate 
+
 ```
 
 ### Sample Job Script
