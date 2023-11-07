@@ -1,4 +1,6 @@
 # M3-HPC
+### STRUDLE
+[S T R U D L E](https://beta.desktop.cvl.org.au/login)
 ### Activate your Conda Env
 [Link](https://docs.massive.org.au/M3/software/pythonandconda/python-anaconda.html)
 ```
@@ -64,4 +66,16 @@ check_installation("torch")
 
 # Additional check for PyTorch CUDA capabilities
 check_torch_cuda()
+```
+
+
+## CMD
+
+```
+# infor
+user_info
+# see resources
+show_cluster
+# cancel a job
+scancel <job id>
 ```
